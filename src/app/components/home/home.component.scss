@@ -1,0 +1,23 @@
+.sec-row{
+    display: flex;
+    padding-top:5px;
+    padding-bottom:5px;
+    div{
+        padding-left:25px;
+        padding-right:25px;
+    }
+}
+.block-container{
+    background:#fff;
+    padding:10px;
+    margin-top:20px;
+}
+.head-container{
+    background-color: rgba(0,0,0,0.1);
+    padding:20px;
+}
+.pic-row{
+    img{
+        width:100%;
+    }
+}
